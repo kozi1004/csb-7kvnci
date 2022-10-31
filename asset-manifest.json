@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://kozi1004.github.io/csb-7kvnci/static/js/main.c2876369.chunk.js",
+    "main.js.map": "https://kozi1004.github.io/csb-7kvnci/static/js/main.c2876369.chunk.js.map",
+    "runtime-main.js": "https://kozi1004.github.io/csb-7kvnci/static/js/runtime-main.50f3aa0d.js",
+    "runtime-main.js.map": "https://kozi1004.github.io/csb-7kvnci/static/js/runtime-main.50f3aa0d.js.map",
+    "static/js/2.40f0e7f5.chunk.js": "https://kozi1004.github.io/csb-7kvnci/static/js/2.40f0e7f5.chunk.js",
+    "static/js/2.40f0e7f5.chunk.js.map": "https://kozi1004.github.io/csb-7kvnci/static/js/2.40f0e7f5.chunk.js.map",
+    "index.html": "https://kozi1004.github.io/csb-7kvnci/index.html",
+    "static/js/2.40f0e7f5.chunk.js.LICENSE.txt": "https://kozi1004.github.io/csb-7kvnci/static/js/2.40f0e7f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50f3aa0d.js",
+    "static/js/2.40f0e7f5.chunk.js",
+    "static/js/main.c2876369.chunk.js"
+  ]
+}
